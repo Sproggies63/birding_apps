@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "birding_apps"
+  title: "Birding Tools"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Locations.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: superhero
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#EEF6F4"
+    linkcolor: "#3B56ED"
+    monofont: courier new
     css: styles.css
     toc: true
 
