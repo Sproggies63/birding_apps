@@ -13,7 +13,7 @@ about:
       icon: feather
       href: https://ebird.org/home
     - text: Queensland waders search tool
-      href: https://sparrow1963.shinyapps.io/qld_waders_all/
+      href: https://sparrow1963.shinyapps.io/qld_waders_only/
     - text: Brisbane bird finder tool
       href: https://sparrow1963.shinyapps.io/BrisbaneBirdfinder_app/
 
